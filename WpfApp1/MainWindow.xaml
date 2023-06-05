@@ -23,6 +23,6 @@
         <Label Content="Baza książek" HorizontalAlignment="Left" Margin="339,21,0,0" VerticalAlignment="Top" Width="162" FontWeight="Bold" FontSize="18"/>
         <Label Content="Ilość książek w bazie:" HorizontalAlignment="Left" Margin="100,187,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <TextBlock x:Name="TotalBooksAmountTextBlock" HorizontalAlignment="Left" Margin="234,192,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-        <Button Content="Usuń zaznaczone książki" Click="removeButtonClick" HorizontalAlignment="Left" Margin="547,231,0,0" VerticalAlignment="Top" Width="148"/>
+        <Button Content="Usuń zaznaczoną książkę" Click="removeButtonClick" HorizontalAlignment="Left" Margin="547,231,0,0" VerticalAlignment="Top" Width="148"/>
     </Grid>
 </Window>
